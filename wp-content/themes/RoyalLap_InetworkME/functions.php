@@ -28,9 +28,7 @@ if( function_exists('acf_add_options_page') ) {
 }
 
 
-?>
 
-<?php
 /**
  * menu-walker.php
  */
@@ -101,3 +99,6 @@ if( function_exists('acf_add_options_page') ) {
 		}
 	}
 }
+
+
+?>
